@@ -10,6 +10,6 @@ patreon: SK1793
 #issuehunt: # Replace with a single IssueHunt username
 #otechie: # Replace with a single Otechie username
 #lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: ['https://www.paypal.com/paypalme/SK01793']
+custom: ['https://www.paypal.com/paypalme/SK01793',PayPal]
 image:
-  path: "./images/IMG-20230920-WA0000.jpg"
+  path: './images/IMG-20230920-WA0000.jpg'
