@@ -11,4 +11,4 @@ patreon: SK1793
 #otechie: # Replace with a single Otechie username
 #lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
 custom: ['https://www.paypal.com/paypalme/SK01793']
-[qrcode:https://www.paypal.com/paypalme/SK01793]
+qrcode: ['https://www.paypal.com/paypalme/SK01793']
